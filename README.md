@@ -3,7 +3,7 @@ DevOps project sample
 # how to install in windows
 use choco
 # How to install chocolatey
-https://chocolatey.org/docs/installation
+[https://chocolatey.org/docs/installation](https://docs.chocolatey.org/en-us/choco/setup/)
 # items that maybe need for DevOps project
 virtualbox
 vagrant
